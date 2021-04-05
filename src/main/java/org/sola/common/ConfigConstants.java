@@ -424,6 +424,12 @@ public class ConfigConstants {
     /** URL to the claim certificate report, hosted on the reporting server */
     public static final String CLAIM_CERTIFICATE_URL = "claim_certificate_report_url";
     
+    /** Community Server URL */
+    public static final String CS_SERVER_URL = "cs_server_url";
+  
+       /** URL to the boundary certificate report, hosted on the reporting server */
+    public static final String BOUNDARY_CERTIFICATE_URL = "boundary_certificate_report_url";
+
     /** Indicates whether reports are enabled or disabled. 1 - enabled, 0 - disabled */
     public static final String REPORTS_ENABLED = "enable-reports";
     
@@ -431,7 +437,7 @@ public class ConfigConstants {
     public static final String COMMUNITY_NAME = "community-name";
     
     /** Documents required for issuing Community Certificate */
-    public static final String DOCUMENTS_FOR_ISSUING_CERT = "docs-for-issuing-cert";
+    public static final String DOCUMENTS_FOR_ISSUING_CERT = "docs_for_issuing_cert";
     
     /**  */
     public static final String OT_TITLE_PLAN_CRS_PROJ4 = "ot-title-plan-crs-proj4";
@@ -444,8 +450,4 @@ public class ConfigConstants {
     
     /**  */
     public static final String BOUNDARY_PRINT_COUNTRY_NAME = "boundary-print-country-name";
-
-    /** URL to the boundary certificate report, hosted on the reporting server */
-    public static final String BOUNDARY_CERTIFICATE_URL = "boundary_certificate_report_url";
-    
 }
