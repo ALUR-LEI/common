@@ -36,5 +36,11 @@ public class ClaimStatusConstants {
     public static final String APPROVED = "approved";    
     
     /** Revised status of boundary. */
-    public static final String REVISED = "revised";    
+    public static final String REVISED = "revised";
+
+    /** Lease claim type. */
+    public static final String LEASE = "lease";        
+
+    /** Customary claim type. */
+    public static final String CUSTOMARY = "customaryType";        
 }

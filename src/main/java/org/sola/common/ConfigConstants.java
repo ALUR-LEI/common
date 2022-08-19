@@ -450,4 +450,7 @@ public class ConfigConstants {
     
     /**  */
     public static final String BOUNDARY_PRINT_COUNTRY_NAME = "boundary-print-country-name";
+    
+    /** URL to the sublease certificate report, hosted on the reporting server */
+    public static final String LEASE_CERTIFICATE_URL = "lease_certificate_report_url";
 }
