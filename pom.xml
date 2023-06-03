@@ -5,13 +5,13 @@
     <parent>
         <artifactId>sola-cs-main</artifactId>
         <groupId>org.sola.cs</groupId>
-        <version>2105a</version>
+        <version>2305a</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <groupId>org.sola.cs.common</groupId>
     <artifactId>sola-cs-common</artifactId>
     <packaging>jar</packaging>
-    <version>2105a</version>
+    <version>2305a</version>
     <name>Common CS Utilities</name>
     <build>
         <plugins>

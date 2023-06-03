@@ -109,6 +109,7 @@ public class RolesConstants {
     public static final String CS_PRINT_CERTIFICATE = "PrintCertificate";
     public static final String CS_ISSUE_CERTIFICATE = "IssueCertificate";
     public static final String CS_CANCEL_CERTIFICATE = "CancelCertificate";
+    public static final String INVESTOR = "Investor";
      // DATA SECURITY CLASSIFICATION
     public static final String CLASSIFICATION_CHANGE_CLASS = "ChangeSecClass";
     public static final String CLASSIFICATION_UNRESTRICTED = "01SEC_Unrestricted";
